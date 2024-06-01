@@ -1,0 +1,8 @@
+Functional Requirements
+1. User can create/edit/delete a job. 
+2. User can schedule/run the job.
+3. User can see execution history of the jobs.
+
+Non-Functional Requirements
+1. High Availability
+2. Eventual Consistency
